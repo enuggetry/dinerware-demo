@@ -1,2 +1,0 @@
-# dinerware-demo
-Dinerware Demo
